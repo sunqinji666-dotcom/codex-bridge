@@ -2,7 +2,7 @@
 
 A gateway that connects chat platforms to one shared Codex execution state.
 
-![Project visual](docs/assets/hero-system-v1.png)
+![codex-bridge project visual](assets/codex-bridge-hero.png)
 
 ## What it does
 

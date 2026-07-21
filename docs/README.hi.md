@@ -2,7 +2,7 @@
 
 A gateway that connects chat platforms to one shared Codex execution state.
 
-![Project visual](docs/assets/hero-system-v1.png)
+![codex-bridge project visual](assets/codex-bridge-hero.png)
 
 Language: हिन्दी. See the [English guide](README.en.md) or [中文首页](../README.md) for setup, privacy, and contribution details.
 
