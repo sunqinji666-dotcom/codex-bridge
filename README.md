@@ -1,4 +1,12 @@
 # CodexBridge
+![CodexBridge 主视觉](docs/assets/hero-system-v1.png)
+
+**中文** · [English](docs/README.en.md) · [日本語](docs/README.ja.md) · [繁體中文](docs/README.zh-TW.md) · [한국어](docs/README.ko.md) · [Español](docs/README.es.md) · [Français](docs/README.fr.md) · [Deutsch](docs/README.de.md) · [Português](docs/README.pt-BR.md) · [Русский](docs/README.ru.md) · [العربية](docs/README.ar.md) · [हिन्दी](docs/README.hi.md) · [Bahasa Indonesia](docs/README.id.md)
+
+Contact: **Jacksun** · [qinji@jack-sun.com](mailto:qinji@jack-sun.com)
+
+> A gateway that connects chat platforms to one shared Codex execution state.
+
 
 > 面向多聊天平台的 Codex 网关：让平台适配器连接到统一的线程与执行状态。
 
